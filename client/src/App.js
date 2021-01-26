@@ -11,9 +11,7 @@ const App = () => {
         </Typography>
 
       </AppBar>
-        <Portal container=>
-          <span>But I actually render here!</span>
-        </Portal>
+
     </Container>
   );
 };
